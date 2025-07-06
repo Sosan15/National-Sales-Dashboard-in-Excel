@@ -1,10 +1,10 @@
 # National-Sales-Dashboard-in-Excel
  Interactive Excel dashboard to analyze national sales by state, region, customer type &amp; time. Features PivotTables, charts, map visualization &amp; KPIs like revenue, cost, profit &amp; margin. Built for clear, data-driven decision-making and actionable business insights.
 
-Overview
+Overview:
 This project presents an interactive and data-driven National Sales Dashboard, built entirely in Microsoft Excel. It provides a comprehensive overview of sales performance across German federal states (Bundesländer), customer types, and regions, using real sales data to analyze key business metrics such as revenue, costs, profit, and margin.
 
-📁 Dataset
+Dataset:
 The data used in this project includes:
 Bundesland (Federal State)
 Region (Nord, Süd, Ost, West)
@@ -17,7 +17,7 @@ Marge (Profit Margin)
 Datum (Transaction Date)
 Each row in the data represents a transaction, capturing multiple dimensions to enable drill-down analysis.
 
-❓ Business Questions Answered
+Business Questions Answered:
 How do sales and profit trends evolve over time (monthly performance)?
 Which customer types contribute the most to revenue and margin?
 
@@ -29,13 +29,13 @@ Which months have peak or low performance?
 
 How does each federal state contribute to overall sales? (Geographic visualization)
 
-🧱 Structure
+Structure:
 The workbook is organized into three main sheets:
 Originaldaten – Clean and structured source data.
 PivotTables – Summary tables created using PivotTables.
 Dashboard – An interactive front-end dashboard, featuring slicers, charts, and KPIs.
 
-🛠 Tools & Features Used
+Tools & Features Used:
 Tool	Purpose
 PivotTables:	Aggregate and group data across time, states, and customer types
 PivotCharts:	Dynamic charts for monthly sales and map visualizations
@@ -44,12 +44,12 @@ Formulas:	Calculate margins, profits, and totals
 Conditional Formatting:	Highlight KPIs and variances
 Map Visualization: map to show sales distribution across Germany
 
-📈 Key KPIs Displayed
+Key KPIs Displayed:
 Total Quantity Sold
 Total Cost
 Total Revenue
 Total Profit
 Average Margin
 
-🎯 Goal
+Goal:
 The purpose of this dashboard is to empower decision-makers with clear, interactive insights from sales data. It supports strategic actions across sales, marketing, and supply chain by helping identify top-performing regions and customers.
